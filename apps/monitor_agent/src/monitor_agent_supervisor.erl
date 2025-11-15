@@ -1,4 +1,4 @@
--module(monitor_agent_sup).
+-module(monitor_agent_supervisor).
 -behaviour(supervisor).
 
 -export([start_link/0, init/1]).

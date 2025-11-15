@@ -1,4 +1,4 @@
--module(monitor_receiver).
+-module(monitor_server_receiver).
 -behaviour(gen_server).
 
 -export([start_link/0]).

@@ -1,0 +1,4 @@
+apps/monitor_agent/src/monitor_agent_app.beam
+apps/monitor_agent/src/monitor_agent_supervisor.beam
+apps/monitor_agent/src/monitor_sender.beam
+apps/monitor_agent/src/monitor_collector.beam

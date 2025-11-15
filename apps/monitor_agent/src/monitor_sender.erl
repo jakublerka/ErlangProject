@@ -7,7 +7,6 @@ start_link() ->
 loop() ->
     receive
         {send, Metrics} ->
-            %% Send to the central node
             {monitor_receiver, 'monitor@central'} ! {metrics, node(), Metrics},
             loop()
     end.

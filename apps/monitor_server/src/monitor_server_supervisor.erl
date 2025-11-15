@@ -1,4 +1,4 @@
--module(monitor_server_sup).
+-module(monitor_server_supervisor).
 -behaviour(supervisor).
 
 -export([start_link/0, init/1]).

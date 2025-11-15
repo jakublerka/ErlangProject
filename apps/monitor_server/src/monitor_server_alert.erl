@@ -1,4 +1,4 @@
--module(monitor_alert).
+-module(monitor_server_alert).
 -export([start_link/0, check/2]).
 
 start_link() ->

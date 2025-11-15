@@ -1,4 +1,4 @@
--module(monitor_aggregator).
+-module(monitor_server_aggregator).
 -export([start_link/0, add_metrics/2]).
 
 start_link() ->
