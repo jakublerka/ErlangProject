@@ -4,8 +4,7 @@
 -export([start/2, stop/1]).
 
 start(_Type, _Args) ->
-    io:fwrite("Hello, World!\n").
-    %monitor_agent_supervisor:start_link().
+    monitor_agent_supervisor:start_link().
 
 stop(_State) ->
     ok.
