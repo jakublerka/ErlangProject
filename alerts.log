@@ -1,0 +1,828 @@
+ALERT: "projektpc02" high_ram 14184
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_ram 15000
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_ram 15745
+ALERT: "projektpc02" high_ram 14855
+ALERT: "projektpc02" high_ram 15199
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_ram 14320
+ALERT: "projektpc02" high_ram 14965
+ALERT: "projektpc02" high_ram 15933
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_ram 14307
+ALERT: "projektpc02" high_ram 15885
+ALERT: "projektpc02" high_ram 15780
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_ram 15278
+ALERT: "projektpc02" high_ram 15267
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_ram 14984
+ALERT: "projektpc02" high_ram 14430
+ALERT: "projektpc02" high_ram 15358
+ALERT: "projektpc02" high_ram 14890
+ALERT: "projektpc02" high_ram 14734
+ALERT: "projektpc02" high_ram 14397
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_ram 14341
+ALERT: "projektpc02" high_ram 15473
+ALERT: "projektpc02" high_cpu 98
+ALERT: "projektpc02" high_ram 15664
+ALERT: "projektpc02" high_ram 14649
+ALERT: "projektpc02" high_ram 14529
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_ram 15944
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_ram 15427
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_ram 14608
+ALERT: "projektpc02" high_ram 15482
+ALERT: "projektpc02" high_ram 15687
+ALERT: "projektpc02" high_ram 14876
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_ram 14789
+ALERT: "projektpc02" high_ram 14952
+ALERT: "projektpc02" high_ram 15361
+ALERT: "projektpc02" high_ram 15948
+ALERT: "projektpc02" high_ram 15968
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_ram 14421
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_ram 14082
+ALERT: "projektpc02" high_cpu 94
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_ram 15546
+ALERT: "projektpc02" high_ram 15653
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_ram 15376
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_ram 14264
+ALERT: "projektpc02" high_ram 14480
+ALERT: "projektpc02" high_ram 14476
+ALERT: "projektpc02" high_ram 14103
+ALERT: "projektpc02" high_ram 14295
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_ram 15827
+ALERT: "projektpc02" high_ram 15743
+ALERT: "projektpc02" high_ram 14710
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_ram 15474
+ALERT: "projektpc02" high_ram 15280
+ALERT: "projektpc02" high_ram 14886
+ALERT: "projektpc02" high_ram 14173
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_ram 14266
+ALERT: "projektpc02" high_ram 15991
+ALERT: "projektpc02" high_ram 15441
+ALERT: "projektpc02" high_ram 14043
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_ram 15904
+ALERT: "projektpc02" high_ram 14952
+ALERT: "projektpc02" high_cpu 94
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_ram 15888
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_cpu 98
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_ram 14476
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_ram 15039
+ALERT: "projektpc02" high_ram 15377
+ALERT: "projektpc02" high_ram 15187
+ALERT: "projektpc02" high_ram 15980
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_ram 15289
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_ram 15639
+ALERT: "projektpc02" high_ram 15503
+ALERT: "projektpc02" high_ram 14257
+ALERT: "projektpc02" high_ram 15556
+ALERT: "projektpc02" high_ram 15379
+ALERT: "projektpc02" high_ram 14305
+ALERT: "projektpc02" high_ram 15096
+ALERT: "projektpc02" high_ram 15581
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_ram 15689
+ALERT: "projektpc02" high_ram 15552
+ALERT: "projektpc02" high_ram 15226
+ALERT: "projektpc02" high_ram 14711
+ALERT: "projektpc02" high_ram 15070
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_ram 14429
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_ram 14159
+ALERT: "projektpc02" high_ram 14994
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_ram 15948
+ALERT: "projektpc02" high_ram 15585
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_ram 15503
+ALERT: "projektpc02" high_ram 14341
+ALERT: "projektpc02" high_ram 15465
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_ram 15200
+ALERT: "projektpc02" high_ram 15822
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_ram 15800
+ALERT: "projektpc02" high_ram 15853
+ALERT: "projektpc02" high_cpu 94
+ALERT: "projektpc02" high_ram 14301
+ALERT: "projektpc02" high_ram 14367
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_ram 15664
+ALERT: "projektpc02" high_ram 14670
+ALERT: "projektpc02" high_ram 15633
+ALERT: "projektpc02" high_cpu 98
+ALERT: "projektpc02" high_ram 14773
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_ram 14345
+ALERT: "projektpc02" high_ram 14417
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_ram 14958
+ALERT: "projektpc02" high_ram 15951
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_ram 14698
+ALERT: "projektpc02" high_ram 15780
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_ram 14818
+ALERT: "projektpc02" high_ram 15734
+ALERT: "projektpc02" high_ram 15932
+ALERT: "projektpc02" high_ram 14433
+ALERT: "projektpc02" high_ram 15580
+ALERT: "projektpc02" high_ram 14863
+ALERT: "projektpc02" high_ram 15974
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_ram 15720
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_ram 14775
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_ram 14144
+ALERT: "projektpc02" high_ram 15033
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_ram 15935
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_ram 14702
+ALERT: "projektpc02" high_ram 14044
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_ram 14068
+ALERT: "projektpc02" high_cpu 94
+ALERT: "projektpc02" high_ram 15168
+ALERT: "projektpc02" high_ram 15780
+ALERT: "projektpc02" high_cpu 98
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_ram 14902
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_ram 15681
+ALERT: "projektpc02" high_ram 14420
+ALERT: "projektpc02" high_ram 14983
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_ram 15205
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_ram 15098
+ALERT: "projektpc02" high_ram 14129
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_ram 15377
+ALERT: "projektpc02" high_ram 14964
+ALERT: "projektpc02" high_ram 14033
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_ram 15167
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_ram 15198
+ALERT: "projektpc02" high_ram 15893
+ALERT: "projektpc02" high_ram 15075
+ALERT: "projektpc02" high_cpu 98
+ALERT: "projektpc02" high_cpu 98
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_ram 15860
+ALERT: "projektpc02" high_ram 15196
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_ram 14599
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_ram 14289
+ALERT: "projektpc02" high_cpu 94
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_ram 15008
+ALERT: "projektpc02" high_ram 15535
+ALERT: "projektpc02" high_ram 14383
+ALERT: "projektpc02" high_ram 14088
+ALERT: "projektpc02" high_ram 14182
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_ram 14610
+ALERT: "projektpc02" high_ram 15847
+ALERT: "projektpc02" high_ram 15674
+ALERT: "projektpc02" high_ram 15468
+ALERT: "projektpc02" high_ram 15258
+ALERT: "projektpc02" high_cpu 98
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_ram 14768
+ALERT: "projektpc02" high_ram 14706
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_ram 14312
+ALERT: "projektpc02" high_ram 15453
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_ram 14715
+ALERT: "projektpc02" high_ram 14108
+ALERT: "projektpc02" high_ram 15003
+ALERT: "projektpc02" high_ram 15801
+ALERT: "projektpc02" high_cpu 98
+ALERT: "projektpc02" high_cpu 94
+ALERT: "projektpc02" high_ram 14518
+ALERT: "projektpc02" high_ram 14947
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_ram 15918
+ALERT: "projektpc02" high_ram 15869
+ALERT: "projektpc02" high_ram 14289
+ALERT: "projektpc02" high_ram 15312
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_ram 15709
+ALERT: "projektpc02" high_ram 15261
+ALERT: "projektpc02" high_cpu 94
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_ram 14685
+ALERT: "projektpc02" high_ram 15323
+ALERT: "projektpc02" high_ram 14611
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_ram 15254
+ALERT: "projektpc02" high_cpu 98
+ALERT: "projektpc02" high_ram 14962
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_ram 14321
+ALERT: "projektpc02" high_ram 14958
+ALERT: "projektpc02" high_ram 15465
+ALERT: "projektpc02" high_ram 14485
+ALERT: "projektpc02" high_ram 15556
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_ram 15278
+ALERT: "projektpc02" high_ram 15699
+ALERT: "projektpc02" high_ram 15208
+ALERT: "projektpc02" high_cpu 94
+ALERT: "projektpc02" high_ram 14873
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_ram 14862
+ALERT: "projektpc02" high_ram 15869
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_ram 15549
+ALERT: "projektpc02" high_ram 14283
+ALERT: "projektpc02" high_ram 14050
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_ram 14477
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_ram 15243
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_ram 15463
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_ram 15862
+ALERT: "projektpc02" high_ram 15652
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_ram 14943
+ALERT: "projektpc02" high_ram 15104
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_ram 14856
+ALERT: "projektpc02" high_ram 14094
+ALERT: "projektpc02" high_ram 15561
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_ram 14217
+ALERT: "projektpc02" high_ram 15817
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_cpu 98
+ALERT: "projektpc02" high_cpu 95
+ALERT: "projektpc02" high_ram 14953
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_ram 14124
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_ram 15147
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_cpu 98
+ALERT: "projektpc02" high_ram 14013
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_ram 15000
+ALERT: "projektpc02" high_cpu "3\r\n"
+ALERT: "projektpc02" high_ram "1772.2109375\r\n"
+ALERT: "projektpc02" high_cpu "4\r\n"
+ALERT: "projektpc02" high_ram "1773.33984375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1751.59765625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1754.1484375\r\n"
+ALERT: "projektpc02" high_cpu "4\r\n"
+ALERT: "projektpc02" high_ram "1755.515625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1761.171875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1762.390625\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1764.3671875\r\n"
+ALERT: "projektpc02" high_cpu "4\r\n"
+ALERT: "projektpc02" high_ram "1766.81640625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1767.671875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1768.98828125\r\n"
+ALERT: "projektpc02" high_cpu "6\r\n"
+ALERT: "projektpc02" high_ram "1770.6328125\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1771.22265625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1771.4453125\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1771.48828125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1771.8671875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1772.99609375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1772.12890625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1772.33984375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1771.921875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1772.2109375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1772.96484375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1779.015625\r\n"
+ALERT: "projektpc02" high_cpu "63\r\n"
+ALERT: "projektpc02" high_ram "1792.8359375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1789.27734375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1790.76953125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1791.28515625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1793.81640625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1794.08203125\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1794.1484375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1792.40234375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1792.12109375\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1793.41796875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1793.42578125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1794.71875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1795.1640625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1795.6796875\r\n"
+ALERT: "projektpc02" high_cpu "17\r\n"
+ALERT: "projektpc02" high_ram "1782.78125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1783.75\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1785.5\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1784.16796875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1785.15234375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1783.546875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1789.1015625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1785.14453125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1786.10546875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1786.05859375\r\n"
+ALERT: "projektpc02" high_cpu "5\r\n"
+ALERT: "projektpc02" high_ram "1784.1953125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1782.41796875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1782.859375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1782.91015625\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1782.6796875\r\n"
+ALERT: "projektpc02" high_cpu "5\r\n"
+ALERT: "projektpc02" high_ram "1778.40625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1777.89453125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1776.5859375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1776.5546875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1775.21484375\r\n"
+ALERT: "projektpc02" high_cpu "6\r\n"
+ALERT: "projektpc02" high_ram "1776.47265625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1775.46875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1774.15625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1772.42578125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1772.61328125\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1772.91796875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1773.671875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1775.66015625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1775.53125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1774.99609375\r\n"
+ALERT: "projektpc02" high_cpu "9\r\n"
+ALERT: "projektpc02" high_ram "1775.41015625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1776.84765625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1776.2109375\r\n"
+ALERT: "projektpc02" high_cpu "3\r\n"
+ALERT: "projektpc02" high_ram "1774.31640625\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1774.83203125\r\n"
+ALERT: "projektpc02" high_cpu "8\r\n"
+ALERT: "projektpc02" high_ram "1775.08984375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1775.59765625\r\n"
+ALERT: "projektpc02" high_cpu "3\r\n"
+ALERT: "projektpc02" high_ram "1775.30078125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1775.46484375\r\n"
+ALERT: "projektpc02" high_cpu "5\r\n"
+ALERT: "projektpc02" high_ram "1775.42578125\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1775.5234375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1775.44921875\r\n"
+ALERT: "projektpc02" high_cpu "3\r\n"
+ALERT: "projektpc02" high_ram "1775.0546875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1776.21875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1773.6640625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1773.38671875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1773.5625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1774.8828125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1775\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1774.203125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1774.17578125\r\n"
+ALERT: "projektpc02" high_cpu "3\r\n"
+ALERT: "projektpc02" high_ram "1775.046875\r\n"
+ALERT: "projektpc02" high_cpu "30\r\n"
+ALERT: "projektpc02" high_ram "1733.27734375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1730.9453125\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1707.02734375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1707.1640625\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1707.81640625\r\n"
+ALERT: "projektpc02" high_cpu "1\r\n"
+ALERT: "projektpc02" high_ram "1708.140625\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1701.98046875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1701.18359375\r\n"
+ALERT: "projektpc02" high_cpu "1\r\n"
+ALERT: "projektpc02" high_ram "1701.46875\r\n"
+ALERT: "projektpc02" high_cpu "1\r\n"
+ALERT: "projektpc02" high_ram "1717.35546875\r\n"
+ALERT: "projektpc02" high_cpu "5\r\n"
+ALERT: "projektpc02" high_ram "1718.07421875\r\n"
+ALERT: "projektpc02" high_cpu "88\r\n"
+ALERT: "projektpc02" high_ram "1717.61328125\r\n"
+ALERT: "projektpc02" high_cpu "1\r\n"
+ALERT: "projektpc02" high_ram "1716.3125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1712.578125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1718.1171875\r\n"
+ALERT: "projektpc02" high_cpu "32\r\n"
+ALERT: "projektpc02" high_ram "1758.90625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1735.8046875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1731.66796875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1730.3828125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1732.28515625\r\n"
+ALERT: "projektpc02" high_cpu "3\r\n"
+ALERT: "projektpc02" high_ram "1732.265625\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1732.20703125\r\n"
+ALERT: "projektpc02" high_cpu "3\r\n"
+ALERT: "projektpc02" high_ram "1731.41015625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1729.5703125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1730.41796875\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1730.70703125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1730.55859375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1750.9453125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1757.51953125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1758.5703125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1807.953125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1804.8046875\r\n"
+ALERT: "projektpc02" high_cpu "10\r\n"
+ALERT: "projektpc02" high_ram "1806.11328125\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1801.328125\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1801.9921875\r\n"
+ALERT: "projektpc02" high_cpu "2\r\n"
+ALERT: "projektpc02" high_ram "1803.9609375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1804.1484375\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1804.4765625\r\n"
+ALERT: "projektpc02" high_cpu "0\r\n"
+ALERT: "projektpc02" high_ram "1798.16015625\r\n"
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_ram undefined
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_cpu 94
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 98
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 91
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 94
+ALERT: "projektpc02" high_cpu 94
+ALERT: "projektpc02" high_cpu 100
+ALERT: "projektpc02" high_cpu 92
+ALERT: "projektpc02" high_cpu 98
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_cpu 94
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_cpu 99
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 93
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 97
+ALERT: "projektpc02" high_cpu 96
+ALERT: "projektpc02" high_cpu 94
+ALERT: "projektpc02" "wysokie zuzycie procesora" 93
+ALERT: "projektpc02" "wysokie zuzycie procesora" 90
+ALERT: "projektpc02" "wysokie zuzycie procesora" 86
+ALERT: "projektpc02" "wysokie zuzycie procesora" 88
+ALERT: "projektpc02" "wysokie zuzycie procesora" 90
+ALERT: "projektpc02" "wysokie zuzycie procesora" 87
+ALERT: "projektpc02" "wysokie zuzycie procesora" 91
+ALERT: "projektpc02" "wysokie zuzycie procesora" 90
+ALERT: "projektpc02" "wysokie zuzycie procesora" 94
+ALERT: "projektpc02" "wysokie zuzycie procesora" 93
+ALERT: "projektpc02" "wysokie zuzycie procesora" 93
+ALERT: "projektpc02" "wysokie zuzycie procesora" 93
+ALERT: "projektpc02" "wysokie zuzycie procesora" 91
+ALERT: "projektpc02" "wysokie zuzycie procesora" 88
+ALERT: "projektpc02" "wysokie zuzycie procesora" 94
+ALERT: "projektpc02" "wysokie zuzycie procesora" 87
+ALERT: "projektpc02" "wysokie zuzycie procesora" 94
+ALERT: "projektpc02" "wysokie zuzycie procesora" 86
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 93
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 92
+ALERT: "projektpc02" "wysokie zuzycie procesora" 90
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 93
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 92
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 93
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 94
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 93
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 94
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 93
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 90
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 91
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 94
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 94
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 93
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 94
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 93
+ALERT: "projektpc02" "wysokie zuzycie pamieci" 93
+ALERT: "16 11 2025 17 24 48" projektpc02 "wysokie zuzycie pamieci" 94
+CRITICAL: "16 11 2025 17 24 48" projektpc02 "krytyczne zuzycie procesora" 99
+ALERT: "16 11 2025 17 30 57" projektpc02 "wysokie zuzycie procesora" 94
+ALERT: "16 11 2025 17 31 52" projektpc02 "wysokie zuzycie pamieci" 94
+ALERT: "16 11 2025 17 32 37" projektpc02 "wysokie zuzycie pamieci" 92
+ALERT: "16 11 2025 17 32 58" projektpc02 "wysokie zuzycie pamieci" 91
+ALERT: "16 11 2025 17 33 01" projektpc02 "wysokie zuzycie pamieci" 93
+ALERT: "16 11 2025 17 33 04" projektpc02 "wysokie zuzycie pamieci" 93
+ALERT: "16 11 2025 17 33 06" projektpc02 "wysokie zuzycie pamieci" 92
+ALERT: "16 11 2025 17 33 08" projektpc02 "wysokie zuzycie pamieci" 89
+ALERT: "16.11.2025 17:37:22" projektpc04 "wysokie zuzycie procesora" 90
+ALERT: "16.11.2025 17:37:22" projektpc04 "wysokie zuzycie pamieci" 87
+CRITICAL: "16.11.2025 17:37:14" projektpc02 "krytyczne zuzycie pamieci" 97
+ALERT: "16.11.2025 17:38:22" projektpc04 "wysokie zuzycie pamieci" 86
+ALERT: "16.11.2025 17:39:23" projektpc04 "wysokie zuzycie pamieci" 91
+ALERT: "16.11.2025 17:40:22" projektpc04 "wysokie zuzycie pamieci" 90
+ALERT: "16.11.2025 17:38:38" projektpc05 "wysokie zuzycie pamieci" 88
+ALERT: "16.11.2025 17:39:18" projektpc03 "wysokie zuzycie pamieci" 88
+ALERT: "16.11.2025 17:40:48" projektpc05 "wysokie zuzycie pamieci" 88
+ALERT: "16.11.2025 17:40:55" projektpc05 "wysokie zuzycie pamieci" 88
+ALERT: "16.11.2025 17:40:53" projektpc03 "wysokie zuzycie pamieci" 89
+ALERT: "16.11.2025 17:41:22" projektpc04 "wysokie zuzycie pamieci" 88
+ALERT: "16.11.2025 17:41:27" projektpc03 "wysokie zuzycie pamieci" 89
+ALERT: "16.11.2025 17:41:38" projektpc05 "wysokie zuzycie pamieci" 87
+ALERT: "16.11.2025 17:42:12" projektpc03 "wysokie zuzycie pamieci" 89
+ALERT: "16.11.2025 17:42:38" projektpc05 "wysokie zuzycie pamieci" 89
+ALERT: "16.11.2025 17:42:23" projektpc04 "wysokie zuzycie pamieci" 89
+ALERT: "16.11.2025 17:43:12" projektpc03 "wysokie zuzycie pamieci" 89
+ALERT: "16.11.2025 17:43:22" projektpc04 "wysokie zuzycie pamieci" 87
+CRITICAL: "16.11.2025 17:38:14" projektpc02 "krytyczne zuzycie procesora" 100
+ALERT: "16.11.2025 17:47:14" projektpc03 "wysokie zuzycie procesora" 86
+ALERT: "16.11.2025 17:47:14" projektpc03 "wysokie zuzycie pamieci" 88
+ALERT: "16.11.2025 17:46:06" projektpc02 "wysokie zuzycie pamieci" 94
+ALERT: "16.11.2025 17:47:44" projektpc05 "wysokie zuzycie pamieci" 89
+ALERT: "16.11.2025 17:51:12" projektpc03 "wysokie zuzycie procesora" 87
+ALERT: "16.11.2025 17:51:12" projektpc03 "wysokie zuzycie pamieci" 88
+ALERT: "16.11.2025 17:51:08" projektpc05 "wysokie zuzycie pamieci" 89
+ALERT: "16.11.2025 17:52:17" projektpc05 "wysokie zuzycie pamieci" 89
+ALERT: "16.11.2025 17:52:24" projektpc05 "wysokie zuzycie pamieci" 88
+ALERT: "16.11.2025 17:52:30" projektpc05 "wysokie zuzycie pamieci" 88
+ALERT: "16.11.2025 17:52:38" projektpc05 "wysokie zuzycie pamieci" 88
+ALERT: "16.11.2025 17:53:38" projektpc05 "wysokie zuzycie pamieci" 88
+ALERT: "16.11.2025 17:54:38" projektpc05 "wysokie zuzycie pamieci" 90
+ALERT: "16.11.2025 17:55:12" projektpc03 "wysokie zuzycie pamieci" 88
+CRITICAL: "16.11.2025 17:55:12" projektpc03 "krytyczne zuzycie procesora" 100
+ALERT: "16.11.2025 17:50:54" projektpc02 "wysokie zuzycie procesora" 87
+ALERT: "16.11.2025 17:50:54" projektpc02 "wysokie zuzycie pamieci" 92
+ALERT: "16.11.2025 17:55:58" projektpc02 "wysokie zuzycie pamieci" 93
+ALERT: "16.11.2025 17:56:14" projektpc02 "wysokie zuzycie pamieci" 92
+CRITICAL: "16.11.2025 17:56:14" projektpc02 "krytyczne zuzycie procesora" 100
+ALERT: "16.11.2025 17:56:16" projektpc02 "wysokie zuzycie pamieci" 91
+ALERT: "16.11.2025 17:56:18" projektpc02 "wysokie zuzycie pamieci" 93
+ALERT: "16.11.2025 17:56:20" projektpc02 "wysokie zuzycie pamieci" 93
+CRITICAL: "16.11.2025 17:56:20" projektpc02 "krytyczne zuzycie procesora" 96
+ALERT: "16.11.2025 17:56:23" projektpc02 "wysokie zuzycie pamieci" 92
+ALERT: "16.11.2025 17:56:25" projektpc02 "wysokie zuzycie pamieci" 93
+ALERT: "16.11.2025 17:56:28" projektpc02 "wysokie zuzycie procesora" 90
+ALERT: "16.11.2025 17:56:28" projektpc02 "wysokie zuzycie pamieci" 91
+ALERT: "16.11.2025 17:56:30" projektpc02 "wysokie zuzycie pamieci" 93
+CRITICAL: "16.11.2025 17:56:30" projektpc02 "krytyczne zuzycie procesora" 100
+ALERT: "16.11.2025 17:56:12" projektpc03 "wysokie zuzycie pamieci" 89
+ALERT: "16.11.2025 17:56:35" projektpc02 "wysokie zuzycie pamieci" 91
+CRITICAL: "16.11.2025 17:56:35" projektpc02 "krytyczne zuzycie procesora" 100
+ALERT: "16.11.2025 17:56:38" projektpc02 "wysokie zuzycie pamieci" 91
+CRITICAL: "16.11.2025 17:56:38" projektpc02 "krytyczne zuzycie procesora" 100
+ALERT: "16.11.2025 17:56:40" projektpc02 "wysokie zuzycie pamieci" 93
+CRITICAL: "16.11.2025 17:56:40" projektpc02 "krytyczne zuzycie procesora" 100
+ALERT: "16.11.2025 17:56:42" projektpc02 "wysokie zuzycie pamieci" 94
+CRITICAL: "16.11.2025 17:56:42" projektpc02 "krytyczne zuzycie procesora" 100
+ALERT: "16.11.2025 17:53:26" projektpc04 "wysokie zuzycie pamieci" 86
+ALERT: "16.11.2025 17:56:44" projektpc02 "wysokie zuzycie pamieci" 92
+CRITICAL: "16.11.2025 17:56:44" projektpc02 "krytyczne zuzycie procesora" 100
+ALERT: "16.11.2025 17:56:38" projektpc05 "wysokie zuzycie pamieci" 92
+ALERT: "16.11.2025 17:56:48" projektpc02 "wysokie zuzycie pamieci" 92
+CRITICAL: "16.11.2025 17:56:48" projektpc02 "krytyczne zuzycie procesora" 100
+ALERT: "16.11.2025 17:56:46" projektpc04 "wysokie zuzycie pamieci" 86
+CRITICAL: "16.11.2025 17:56:46" projektpc04 "krytyczne zuzycie procesora" 100
+ALERT: "16.11.2025 17:56:54" projektpc04 "wysokie zuzycie pamieci" 87
+ALERT: "16.11.2025 17:57:02" projektpc04 "wysokie zuzycie pamieci" 89
+ALERT: "16.11.2025 17:57:12" projektpc03 "wysokie zuzycie pamieci" 90
+ALERT: "16.11.2025 17:57:14" projektpc02 "wysokie zuzycie pamieci" 94
+ALERT: "16.11.2025 17:57:22" projektpc04 "wysokie zuzycie procesora" 90
+ALERT: "16.11.2025 17:57:22" projektpc04 "wysokie zuzycie pamieci" 90
+ALERT: "16.11.2025 17:57:38" projektpc05 "wysokie zuzycie pamieci" 92
+ALERT: "16.11.2025 17:58:12" projektpc03 "wysokie zuzycie pamieci" 87
+ALERT: "16.11.2025 17:58:14" projektpc02 "wysokie zuzycie pamieci" 94
+ALERT: "16.11.2025 17:58:22" projektpc04 "wysokie zuzycie pamieci" 89
+ALERT: "16.11.2025 17:58:43" projektpc05 "wysokie zuzycie pamieci" 92
+ALERT: "16.11.2025 17:59:12" projektpc03 "wysokie zuzycie procesora" 93
+ALERT: "16.11.2025 17:59:12" projektpc03 "wysokie zuzycie pamieci" 87
+ALERT: "16.11.2025 17:59:22" projektpc04 "wysokie zuzycie pamieci" 86
+CRITICAL: "16.11.2025 17:59:22" projektpc04 "krytyczne zuzycie procesora" 99
+ALERT: "16.11.2025 17:59:38" projektpc05 "wysokie zuzycie procesora" 88
+ALERT: "16.11.2025 17:59:38" projektpc05 "wysokie zuzycie pamieci" 94
+ALERT: "16.11.2025 18:00:12" projektpc03 "wysokie zuzycie pamieci" 88
+CRITICAL: "16.11.2025 18:00:12" projektpc03 "krytyczne zuzycie procesora" 96
+ALERT: "16.11.2025 18:00:22" projektpc04 "wysokie zuzycie procesora" 94
+ALERT: "16.11.2025 18:00:22" projektpc04 "wysokie zuzycie pamieci" 90
+ALERT: "16.11.2025 18:00:38" projektpc05 "wysokie zuzycie pamieci" 90
+ALERT: "16.11.2025 18:01:12" projektpc03 "wysokie zuzycie pamieci" 88
+ALERT: "16.11.2025 18:01:21" projektpc04 "wysokie zuzycie pamieci" 90
+ALERT: "16.11.2025 18:01:14" projektpc02 "wysokie zuzycie procesora" 91
+ALERT: "16.11.2025 18:01:39" projektpc05 "wysokie zuzycie pamieci" 91
+ALERT: "16.11.2025 18:02:09" projektpc03 "wysokie zuzycie pamieci" 86
+ALERT: "16.11.2025 18:02:38" projektpc05 "wysokie zuzycie pamieci" 86
+ALERT: "16.11.2025 18:02:15" projektpc02 "wysokie zuzycie pamieci" 91
+ALERT: "16.11.2025 18:03:14" projektpc02 "wysokie zuzycie pamieci" 93
+ALERT: "16.11.2025 18:04:14" projektpc02 "wysokie zuzycie procesora" 89
+ALERT: "16.11.2025 18:04:41" projektpc05 "wysokie zuzycie pamieci" 91
+ALERT: "16.11.2025 18:05:14" projektpc02 "wysokie zuzycie pamieci" 94
+ALERT: "16.11.2025 18:05:38" projektpc05 "wysokie zuzycie pamieci" 88
+ALERT: "16.11.2025 18:06:14" projektpc02 "wysokie zuzycie pamieci" 94
+ALERT: "16.11.2025 18:06:35" projektpc05 "wysokie zuzycie pamieci" 86
+ALERT: "16.11.2025 18:07:14" projektpc02 "wysokie zuzycie pamieci" 92
+ALERT: "16.11.2025 18:07:43" projektpc05 "wysokie zuzycie pamieci" 86
+ALERT: "16.11.2025 18:08:31" projektpc05 "wysokie zuzycie pamieci" 87
+ALERT: "16.11.2025 18:09:14" projektpc02 "wysokie zuzycie pamieci" 94
+ALERT: "16.11.2025 18:09:44" projektpc05 "wysokie zuzycie pamieci" 86
+ALERT: "16.11.2025 18:10:07" projektpc03 "wysokie zuzycie pamieci" 86
+ALERT: "16.11.2025 18:10:14" projektpc02 "wysokie zuzycie pamieci" 93
+ALERT: "16.11.2025 18:11:06" projektpc03 "wysokie zuzycie pamieci" 86
+ALERT: "16.11.2025 18:12:22" projektpc03 "wysokie zuzycie pamieci" 87
+ALERT: "16.11.2025 18:12:14" projektpc02 "wysokie zuzycie pamieci" 87
+ALERT: "16.11.2025 18:13:05" projektpc03 "wysokie zuzycie pamieci" 86
+ALERT: "16.11.2025 18:13:14" projektpc02 "wysokie zuzycie procesora" 86
+CRITICAL: "16.11.2025 18:13:14" projektpc02 "krytyczne zuzycie pamieci" 97
+ALERT: "16.11.2025 18:15:14" projektpc02 "wysokie zuzycie pamieci" 94
+ALERT: "16.11.2025 18:18:14" projektpc02 "wysokie zuzycie pamieci" 94
