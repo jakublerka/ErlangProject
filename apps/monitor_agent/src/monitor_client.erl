@@ -25,6 +25,7 @@ start_link(Id) ->
     %     end,
     % RegName = ("monitor_client_" ++ IdStr),
     gen_server:start_link({local, Id}, ?MODULE, [Id], []),
+    net_adm:ping(Servernode),
     net_kernel:connect_node(Servernode).
 
 % get_state() ->
