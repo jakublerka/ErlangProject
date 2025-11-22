@@ -1,0 +1,1 @@
+﻿erl -name projektpc05@192.168.1.105 -setcookie mycookie -kernel dist_auto_connect once inet_dist_listen_min 9100 inet_dist_listen_max 9101
